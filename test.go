@@ -1,6 +1,6 @@
 package GOTEST
 
-import "fmt"
+import "log"
 
 func test(){
 

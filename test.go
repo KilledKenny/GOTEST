@@ -2,7 +2,7 @@ package GOTEST
 
 import "log"
 
-func test(){
+func Test(){
 
 log.Println("abc")
 }
